@@ -1,5 +1,5 @@
 # DotNet.CMS
-A lightweight C# .net + MSSQL based content management system for your web/mobile site.基于C# .Net + MSSQL，为网站及移动互联网项目而生的小型、轻量级内容管理系统，俗称快速建站系统。
+A lightweight C# .net + MVC + MSSQL based content management system for your web/mobile site.基于C# .Net + MVC + MSSQL，为网站及移动互联网项目而生的小型、轻量级内容管理系统，俗称快速建站系统。
 # Installation/安装
 # Example/Usage/Quickstart/Getting Started/快速开始
 # Features/功能
